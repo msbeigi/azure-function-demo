@@ -1,3 +1,6 @@
+
+[![Build and deploy Python project to Azure Function App - city-app-demo](https://github.com/msbeigi/azure-function-demo/actions/workflows/main_city-app-demo.yml/badge.svg)](https://github.com/msbeigi/azure-function-demo/actions/workflows/main_city-app-demo.yml)
+
 [![Microsoft Documentation](https://img.shields.io/badge/Microsoft-Documentation-blue?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-python?tabs=windows%2Cbash%2Cazure-cli&pivots=python-mode-decorators)
 
 
